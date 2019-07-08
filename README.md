@@ -1,5 +1,5 @@
 
-https://dev.azure.com/TailSpin0605/Space%20Game-web/_apis/build/status/aadesola.mslearn-tailspin-spacegame-web?branchName=master
+[![Build Status](https://dev.azure.com/TailSpin0605/Space%20Game-web/_apis/build/status/aadesola.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/TailSpin0605/Space%20Game-web/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
